@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lyubi\\Desktop\\Proverochnaya rabota\\Itogovaya\\Task\\Task.csproj",
+      "projectUniqueName": "C:\\Users\\lyubi\\Desktop\\Proverochnaya rabota\\Proverochnaya_rabota\\Task\\Task.csproj",
       "projectName": "Task",
-      "projectPath": "C:\\Users\\lyubi\\Desktop\\Proverochnaya rabota\\Itogovaya\\Task\\Task.csproj",
+      "projectPath": "C:\\Users\\lyubi\\Desktop\\Proverochnaya rabota\\Proverochnaya_rabota\\Task\\Task.csproj",
       "packagesPath": "C:\\Users\\lyubi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lyubi\\Desktop\\Proverochnaya rabota\\Itogovaya\\Task\\obj\\",
+      "outputPath": "C:\\Users\\lyubi\\Desktop\\Proverochnaya rabota\\Proverochnaya_rabota\\Task\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lyubi\\AppData\\Roaming\\NuGet\\NuGet.Config"

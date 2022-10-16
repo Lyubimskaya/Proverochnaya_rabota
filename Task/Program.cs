@@ -8,11 +8,11 @@ string[] array = new string[]
     "abc", 
     "123", 
     "a", 
-    "8", 
+    "6", 
     ";", 
     "82", 
     "hello", 
-}; 
+};
 
 string[] result = new string[array.Length]; 
 int k = 0; 
