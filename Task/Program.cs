@@ -10,7 +10,7 @@ string[] array = new string[]
     "a", 
     "6", 
     ";", 
-    "82", 
+    "47", 
     "hello", 
 };
 
